@@ -25,11 +25,11 @@
 
 | **Category**          | **Skills**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Web Designing**     | HTML, CSS, JavaScript, React JS, Tailwind, WordPress, Bootstrap           |
-| **Programming Skills**| Python, PHP                                                               |
-| **Operating Systems** | Windows, Linux                                                            |
-| **Software Skills**   | VS Code, MS Office, GitHub, ChatGPT                                       |
-| **Backend**           | Firebase                            |
+| **Web Designing**     | HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND, WORDPRESS, BOOTSTRAP, MATERIAL UI           |
+| **Programming Skills**| PYTHON, PHP                                                               |
+| **Operating Systems** | WINDOWS, LINUX                                                            |
+| **Software Skills**   | VS CODE, MICROSOFT OFFICE, GITHUB, CHATGPT                                       |
+| **Backend**           | FIREBASE, FIREBASE AUTH, FIREBASE FIRESTORE                            |
 
 ## Academic Projects
 
