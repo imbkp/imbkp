@@ -9,8 +9,6 @@
 | **Date of Birth** | 08/09/2000                                                               |
 | **Email**      | [bkpbharatparihar0507@gmail.com](mailto:bkpbharatparihar0507@gmail.com)     |
 | **Gender**     | Male                                                                        |
-| **LinkedIn**   | [Bharat's LinkedIn](https://www.linkedin.com/in/imbkp) |
-| **GitHub**     | [Bharat's GitHub](https://github.com/imbkp)                        |
 | **Experience** | Fresher                                                                     |
 
 ## Academic Details
